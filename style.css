@@ -1,0 +1,80 @@
+#main {
+	background-color: #cdd7d6;
+	font-family: Jura;
+	font-size: 17px;
+	padding: 40px;
+}
+
+.header {
+	margin-bottom: 20px;
+}
+
+#title {
+	color:black;
+	text-align: center;
+	font-size: 40px;
+}
+
+#title > h1 {
+	display: block;
+	font-size: 2em;
+	font-weight: bold;
+	margin: 0px;
+}
+
+#tribute-info {
+	margin-top: 40px;
+	padding: 0px 10%;
+}
+
+#tribute-info > h1 {
+	text-align: center;
+}
+
+#tribute-info > ul {
+	line-height: 1.7;
+	padding-inline-start: 15px;
+}
+
+#tribute-info > q {
+	line-height: 1.5;
+	margin-top: 40px;
+}
+
+#img-div {
+	background-color: white;
+	padding: 20px;
+}
+
+#img-div > figure {
+	margin: 0 auto;
+}
+
+#img-div > figure > img {
+	display: block;
+	margin: 0 auto 20px auto;
+  height: auto;
+  width: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#img-div > figure > figcaption {
+	text-align: center;
+}
+
+#subtitle > h4 {
+	font-size: 25px;
+	text-align: center;
+}
+
+#tributelink {
+	margin-top: 40px;
+}
+
+#tributelink > p {
+	font-size: 23px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 0px;
+}
